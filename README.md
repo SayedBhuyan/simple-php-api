@@ -17,4 +17,6 @@ Then Open C:\Windows\System32\drivers\etc\hosts
 And Add this line. 
 127.0.0.1 YourVirtualHostName
 
+Restart your Apache and then go to your browser and write http://YourVirtualHostName
+
 Download or add chrome extension called "RestEasy" To call the api. Or you could use others as well.
